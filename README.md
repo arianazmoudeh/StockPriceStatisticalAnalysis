@@ -22,10 +22,17 @@ Stock analysis involves comparing a company’s current financial statement to i
 
 Arian Azmoudeh
 
+
 Ai & Machine Learning Student
 
+
 @ArianAzmoudeh
+
+
 Arian.Azmoudeh@yahoo.com
+
+
 https://www.linkedin.com/in/arianazmoudeh/
+
 
 i hope you enjoy it
